@@ -1,3 +1,10 @@
-flask
-gunicorn
 python-dotenv
+flask
+langchain
+langchain_anthropic
+langchain_core
+langsmith
+langchain_community
+langchain-groq
+gunicorn
+markdown
